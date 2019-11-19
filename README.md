@@ -1,2 +1,2 @@
-# CoursColocalisation
-slides course on bioimage colocalization analysis, basics
+# Cours Colocalisation
+Slides course on bioimage colocalization analysis, basics
